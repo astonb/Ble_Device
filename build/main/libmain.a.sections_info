@@ -1,0 +1,82 @@
+In archive F:/msys32/home/40806/esp/Ble_Device/build/main/libmain.a:
+
+ble_device.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.esp_gattc_cb 00000014  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.gattc_profile_event_handler 00000240  00000000  00000000  00000048  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.esp_gap_cb 000000c0  00000000  00000000  00000288  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .literal.app_main 000000dc  00000000  00000000  00000348  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  4 .text         00000000  00000000  00000000  00000424  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  5 .data         00000000  00000000  00000000  00000424  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  6 .bss          00000000  00000000  00000000  00000424  2**0
+                  ALLOC
+  7 .rodata.str1.4 00000d52  00000000  00000000  00000424  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  8 .text.esp_gattc_cb 00000081  00000000  00000000  00001178  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  9 .text.gattc_profile_event_handler 000006b2  00000000  00000000  000011fc  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 10 .rodata.gattc_profile_event_handler 000000a8  00000000  00000000  000018b0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
+ 11 .text.esp_gap_cb 00000217  00000000  00000000  00001958  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 12 .rodata.esp_gap_cb 00000054  00000000  00000000  00001b70  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
+ 13 .rodata       0000001c  00000000  00000000  00001bc4  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 14 .text.app_main 00000212  00000000  00000000  00001be0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 15 .rodata.__func__$6546 00000009  00000000  00000000  00001df4  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 16 .data.gl_profile_tab 00000018  00000000  00000000  00001e00  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, DATA
+ 17 .data.ble_scan_params 00000014  00000000  00000000  00001e18  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+ 18 .rodata.notify_descr_uuid 00000012  00000000  00000000  00001e2c  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 19 .rodata.remote_filter_char_uuid 00000012  00000000  00000000  00001e40  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 20 .data.remote_filter_service_uuid 00000012  00000000  00000000  00001e54  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+ 21 .bss.descr_elem_result 00000004  00000000  00000000  00001e68  2**2
+                  ALLOC
+ 22 .bss.char_elem_result 00000004  00000000  00000000  00001e68  2**2
+                  ALLOC
+ 23 .bss.get_server 00000001  00000000  00000000  00001e68  2**0
+                  ALLOC
+ 24 .bss.connect  00000001  00000000  00000000  00001e68  2**0
+                  ALLOC
+ 25 .rodata.remote_device_name 0000000f  00000000  00000000  00001e68  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 26 .debug_frame  00000070  00000000  00000000  00001e78  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 27 .debug_info   00003007  00000000  00000000  00001ee8  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 28 .debug_abbrev 000002b2  00000000  00000000  00004eef  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 29 .debug_loc    000002a6  00000000  00000000  000051a1  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 30 .debug_aranges 00000038  00000000  00000000  00005447  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 31 .debug_ranges 00000028  00000000  00000000  0000547f  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 32 .debug_line   00000a14  00000000  00000000  000054a7  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 33 .debug_str    00002dbd  00000000  00000000  00005ebb  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 34 .comment      0000003c  00000000  00000000  00008c78  2**0
+                  CONTENTS, READONLY
+ 35 .xtensa.info  00000038  00000000  00000000  00008cb4  2**0
+                  CONTENTS, READONLY
+ 36 .xt.lit       00000020  00000000  00000000  00008cec  2**0
+                  CONTENTS, RELOC, READONLY
+ 37 .xt.prop      000005f4  00000000  00000000  00008d0c  2**0
+                  CONTENTS, RELOC, READONLY

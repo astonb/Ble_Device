@@ -1,0 +1,3 @@
+---- ESP_GATT_WRITE_TYPE_RSP Matches (2 in 1 files) ----
+gattc_profile_event_handler in ble_device.c (F:\msys32\home\40806\esp\Ble_Device\main) :                                                                      ESP_GATT_WRITE_TYPE_RSP,
+gattc_profile_event_handler in ble_device.c (F:\msys32\home\40806\esp\Ble_Device\main) :                                   ESP_GATT_WRITE_TYPE_RSP,
